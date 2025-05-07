@@ -1,1 +1,1 @@
-zookeeper:3.9.2-debian-12-r2
+docker.io/bitnami/zookeeper:3.9.2-debian-12-r2
