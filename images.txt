@@ -1,3 +1,1 @@
-nginx
-mysql:8.0
-tomcat:latest
+docker.io/bitnami/zookeeper:3.9.2-debian-12-r2
