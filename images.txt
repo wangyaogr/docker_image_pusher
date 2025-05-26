@@ -1,1 +1,1 @@
-busybox
+ubuntu:22.04
