@@ -1,1 +1,1 @@
-ubuntu:22.04
+maven:3.8.6-openjdk-11
