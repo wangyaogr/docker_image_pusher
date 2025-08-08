@@ -1,1 +1,1 @@
-nginx:latest
+node:22.0
