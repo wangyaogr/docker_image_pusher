@@ -1,5 +1,1 @@
-docker.io/istio/pilot:1.27.0
-docker.io/istio/proxyv2:1.27.0
-docker.io/istio/proxy_init:1.27.0
-docker.io/istio/proxyv2:1.27.0
 busybox:1.28
